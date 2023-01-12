@@ -4,7 +4,7 @@
   "description": "TDD 연습용 레포",
   "main": "index.js",
   "scripts": {
-    "test": "jest --init"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
