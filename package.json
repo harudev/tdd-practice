@@ -1,0 +1,22 @@
+{
+  "name": "tdd-practice",
+  "version": "1.0.0",
+  "description": "TDD 연습용 레포",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harudev/tdd-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harudev/tdd-practice/issues"
+  },
+  "homepage": "https://github.com/harudev/tdd-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
